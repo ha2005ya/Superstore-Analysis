@@ -1,12 +1,12 @@
 # Superstore Analytics Dashboard
 
-## 🧾 Overview
+## Overview
 This project is an interactive dashboard built using **Power BI** to analyze a retail dataset (Superstore).  
 It provides a comprehensive view of business performance by tracking sales, profit, discounts, and quantity across multiple dimensions.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze overall sales and profit performance  
 - Compare performance across regions  
 - Understand the impact of shipping modes on sales  
@@ -15,25 +15,25 @@ It provides a comprehensive view of business performance by tracking sales, prof
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Source: Superstore Dataset (commonly used for analysis practice)  
-- Data was cleaned and transformed داخل Power BI  
+- Data was cleaned and transformed inside Power BI  
 - Main table used: `Cleaned_Data`  
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
-### 🔹 Key Performance Indicators (KPIs)
-- 💰 **Total Sales:** 2.29M  
-- 📈 **Total Profit:** 286K  
-- 📊 **Profit Margin**  
-- 🏷️ **Total Discount**  
-- 📦 **Total Quantity**  
+### Key Performance Indicators (KPIs)
+-  **Total Sales:** 2.29M  
+-  **Total Profit:** 286K  
+-  **Profit Margin**  
+-  **Total Discount**  
+-  **Total Quantity**  
 
 ---
 
-### 🔹 Visualizations
+### Visualizations
 
 #### 1. Sales, Profit & Profit Margin by Region
 - Compares performance across regions (West, East, Central, South)  
@@ -56,14 +56,14 @@ It provides a comprehensive view of business performance by tracking sales, prof
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Power BI**  
 - Data Cleaning & Transformation  
 - **DAX (Data Analysis Expressions)**  
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - The **West region** generates the highest sales  
 - Some sub-categories show low or negative profit (require attention)  
 - **Standard Class shipping** dominates sales distribution  
@@ -71,7 +71,7 @@ It provides a comprehensive view of business performance by tracking sales, prof
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Open the Power BI file (`.pbix`)  
 2. Navigate between pages:
    - Overview  
@@ -81,18 +81,8 @@ It provides a comprehensive view of business performance by tracking sales, prof
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 - Add forecasting models  
 - Incorporate more time-based analysis  
 - Enhance user experience (UX)  
 - Add drill-through pages  
-
----
-
-## 👩‍💻 Author
-- Haya – Data Science & AI Student  
-
----
-
-## ⭐ Notes
-This project is part of developing data analysis and dashboarding skills using Power BI.
